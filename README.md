@@ -5,12 +5,35 @@
 </div>
 
 <div>
-  
-  ## About Me
-  #### I am Sunwoo Park, a Korean student who will soon be starting a combined master's-doctoral degree at an AI graduate school. My main interest is Computer Vision and Deep learning.
-  <br/>
 
-  ## Github Stats
+  <hr />
+
+  ## 😄 About Me
+  
+  Hello! My name is `Sunwoo Park`, a Korean student who will soon be starting a combined master's-doctoral degree at an AI graduate school.<br>
+  My `main interest` is `Deep learning and Computer Vision`, especially `3D Reconstruction` fields.<br>
+  <br>
+
+  - 📧 Contact: `psw1023@unist.ac.kr`
+  <br>
+  
+  ## 🌱 Education and Experience
+  
+  🎓 **UNIST**(Ulsan National Institute of Science and Technology), Ulsan, South Korea
+    
+  - `PhD-MS Combined Degree` in `Artificial Intelligence Graduate School`(AIGS) :: 2025.09 ~
+  - `BS` in Department of `Computer Science Engineering`(CSE) :: 2021.03 ~ 2025.08
+  <br>
+  
+  💻 **Uvllab** at UNIST
+
+  - `Undergraduated Intern` :: 2025.01 ~ 2025.08
+
+  <br>
+  
+  <hr />
+  
+  ## 📈 Github Stats
   [![psw1023's GitHub stats](https://github-readme-stats.vercel.app/api?username=psw1023)](https://github.com/psw1023/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psw1023)](https://github.com/psw1023/github-readme-stats)
